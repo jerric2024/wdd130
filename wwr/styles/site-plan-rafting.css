@@ -6,25 +6,25 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #17301c   ;
-  --secondary-color: #3f88c5 ;
-  --accent1-color: #563635;
-  --accent2-color: #f71735;
+  --primary-color: #3f88c5;
+  --secondary-color: #dde392;
+  --accent1-color: #db2b39;
+  --accent2-color: #ddcad9;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Arial";
   --paragraph-font: Lato, Calibri, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #17301c;  /* headlines on a white background */ 
+  --headline-color-on-white: #3f88c5;  /* headlines on a white background */ 
   --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #3f88c5; /* paragraph text on a white background */ 
+  --paragraph-color-on-white: #17301c; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #dde392  ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #f71735;
+  --paragraph-background-color: #17301c  ;
+  --nav-link-color: black;
+  --nav-background-color: #3f88c5;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-hover-background-color: #db2b39;
 }
 
 
