@@ -241,6 +241,10 @@ footer .social img {
     overflow: auto;
 }
 
+#message {
+    color: #db2b39; 
+}
+
 .river-img {
     height: 250px; 
     width: 300px;
