@@ -262,8 +262,9 @@ footer .social img {
 }
 
 .river1-img:hover, .river2-img:hover, .river3-img:hover {
-    opacity: .6;
-    transform: scale(1.1);
+    /*opacity: .6;*/
+    transform: scale(4.4);
+    transform-origin: right top;
 }
 
 .river1 {
